@@ -1,6 +1,6 @@
 package com.datcr.voxelinfinity
 
-const val LOAD_URL = "https://voxel.etbr.top:2096"
+const val LOAD_URL = "URL"
 
 const val RC_STORAGE_PERMISSION = 1
 
