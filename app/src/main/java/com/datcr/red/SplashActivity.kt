@@ -1,4 +1,4 @@
-package com.datcr.voxelinfinity
+package com.datcr.red
 
 import android.content.Intent
 import android.os.Bundle

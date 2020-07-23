@@ -1,0 +1,7 @@
+#Wed Jul 22 20:03:29 BRT 2020
+base.0=/home/datcr/StudioProjects/android-web-app/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/datcr/StudioProjects/android-web-app/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">⠀</string>
-    <string name="name">App Name</string>
-    <string name="downloading">Downloading&#8230;</string>
+    <string name="app_name">RED Web</string>
+    <string name="name">RED</string>
+    <string name="downloading">Baixando&#8230;</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="permission_required">Permission required</string>

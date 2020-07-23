@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.google.android.material:material:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fbd8fcdaef424715e5d5511e38fc9ad9/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/ec8c6176db26716ab8bc6865bf059445/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/datcr/.gradle/caches/transforms-2/files-2.1/3d6a361bdc9b050ccc278bb42bf89343/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/f9df89ff7777b08419bce231ccbeee21/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/60d4857adf8055b417bebd7fcaeeb6bc/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/5df964b5399835b81aa0808da9494c39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2fa5ea36b9d287f634ccd16b103c92aa/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/a9d3b7dc8ef9c0081c864c4fc98e8168/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/8e449a7356d4db6d2a329166eeec58c4/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/33ae327abea48f92c016c96ad607b354/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/74043fd53814b50f8e6a613a572ff33c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7a99c6d7d0baf35275703be8543f37ad/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fa72b018924ea1bc8b0646c1da62cb40/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/463aa801bd7ff3bacd7107fb9cf09163/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7f390fb7d501f301958eb87fbbc6e2d9/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6c5e14f07c2ba319b2b9ed88299c44ad/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/94d6dea546e62ae05d406705df20b87f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/be550d9bed4139b0fbeb2532d7f78d99/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/36f4fad85ef406129303262cba02887f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2b499996943bd1baeb40d12f078cedea/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6d18dd75f328d51ac706e07f373a6705/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/3c92440577531accd15ad031e2640d1f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/d4dbff270dd06c4e223883147db3967a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fd4b966039e42ea137e28bf312a861b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/093e5503f9a35ee143491ae3755940d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7fd5539456e65eb9235ff2cf8b391bc1/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.material:material:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fbd8fcdaef424715e5d5511e38fc9ad9/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fbd8fcdaef424715e5d5511e38fc9ad9/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/datcr/.gradle/caches/transforms-2/files-2.1/3d6a361bdc9b050ccc278bb42bf89343/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/datcr/.gradle/caches/transforms-2/files-2.1/3d6a361bdc9b050ccc278bb42bf89343/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/36f4fad85ef406129303262cba02887f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/36f4fad85ef406129303262cba02887f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.datcr.com.datcr.red.MainActivity
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:15:9-73
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:15:19-70
+activity#com.datcr.com.datcr.red.SplashActivity
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:17:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fbd8fcdaef424715e5d5511e38fc9ad9/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fbd8fcdaef424715e5d5511e38fc9ad9/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/ec8c6176db26716ab8bc6865bf059445/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/ec8c6176db26716ab8bc6865bf059445/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/datcr/.gradle/caches/transforms-2/files-2.1/3d6a361bdc9b050ccc278bb42bf89343/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/datcr/.gradle/caches/transforms-2/files-2.1/3d6a361bdc9b050ccc278bb42bf89343/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/f9df89ff7777b08419bce231ccbeee21/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/f9df89ff7777b08419bce231ccbeee21/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/60d4857adf8055b417bebd7fcaeeb6bc/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/60d4857adf8055b417bebd7fcaeeb6bc/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/5df964b5399835b81aa0808da9494c39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/5df964b5399835b81aa0808da9494c39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2fa5ea36b9d287f634ccd16b103c92aa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2fa5ea36b9d287f634ccd16b103c92aa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/a9d3b7dc8ef9c0081c864c4fc98e8168/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/a9d3b7dc8ef9c0081c864c4fc98e8168/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/8e449a7356d4db6d2a329166eeec58c4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/8e449a7356d4db6d2a329166eeec58c4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/33ae327abea48f92c016c96ad607b354/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/33ae327abea48f92c016c96ad607b354/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/74043fd53814b50f8e6a613a572ff33c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/74043fd53814b50f8e6a613a572ff33c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7a99c6d7d0baf35275703be8543f37ad/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7a99c6d7d0baf35275703be8543f37ad/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fa72b018924ea1bc8b0646c1da62cb40/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fa72b018924ea1bc8b0646c1da62cb40/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/463aa801bd7ff3bacd7107fb9cf09163/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/463aa801bd7ff3bacd7107fb9cf09163/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7f390fb7d501f301958eb87fbbc6e2d9/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7f390fb7d501f301958eb87fbbc6e2d9/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6c5e14f07c2ba319b2b9ed88299c44ad/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6c5e14f07c2ba319b2b9ed88299c44ad/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/dc5a4aa3f78e11701c1708681eabc8f5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/94d6dea546e62ae05d406705df20b87f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/94d6dea546e62ae05d406705df20b87f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/be550d9bed4139b0fbeb2532d7f78d99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/be550d9bed4139b0fbeb2532d7f78d99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/36f4fad85ef406129303262cba02887f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/36f4fad85ef406129303262cba02887f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2b499996943bd1baeb40d12f078cedea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/2b499996943bd1baeb40d12f078cedea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6d18dd75f328d51ac706e07f373a6705/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/6d18dd75f328d51ac706e07f373a6705/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/3c92440577531accd15ad031e2640d1f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/3c92440577531accd15ad031e2640d1f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/d4dbff270dd06c4e223883147db3967a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/d4dbff270dd06c4e223883147db3967a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fd4b966039e42ea137e28bf312a861b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/fd4b966039e42ea137e28bf312a861b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/093e5503f9a35ee143491ae3755940d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/093e5503f9a35ee143491ae3755940d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7fd5539456e65eb9235ff2cf8b391bc1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/datcr/.gradle/caches/transforms-2/files-2.1/7fd5539456e65eb9235ff2cf8b391bc1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datcr/StudioProjects/android-web-app/app/src/main/AndroidManifest.xml

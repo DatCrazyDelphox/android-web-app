@@ -1,4 +1,4 @@
-package com.datcr.voxelinfinity
+package com.datcr.red
 
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Gravity

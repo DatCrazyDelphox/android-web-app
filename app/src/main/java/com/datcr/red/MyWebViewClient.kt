@@ -1,4 +1,4 @@
-package com.datcr.voxelinfinity
+package com.datcr.red
 
 import android.graphics.Bitmap
 import android.webkit.WebResourceError
